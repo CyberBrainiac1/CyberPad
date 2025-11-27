@@ -7,7 +7,6 @@
 ## Features
 
 * 16-key layout with hot-swappable switches
-* OLED display for dynamic feedback
 * Powered by the Seeeduino XIAO RP2040
 * Customizable firmware using CircuitPython
 * 3D-printable case designed in FreeCAD
