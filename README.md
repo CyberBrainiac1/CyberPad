@@ -33,6 +33,11 @@ The firmware is written in KMK
 ## CAD
 
 The 3D-printable case is designed in Onshape
+
+<img width="1212" height="729" alt="image" src="https://github.com/user-attachments/assets/3c589192-653d-456f-b032-113c2f7210fc" />
+<img width="659" height="767" alt="image" src="https://github.com/user-attachments/assets/5f955828-ca2e-43a6-8998-542ea405dcf9" />
+
+
 ---
 
 ## PCB
